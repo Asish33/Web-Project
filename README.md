@@ -1,4 +1,4 @@
-﻿# Web application using React and Typescript.
+﻿# Web application using React and Typescript using Supabase
 
 A modern web application built with React, TypeScript, and Vite, featuring Supabase integration, mapping capabilities, and data visualization.
 
